@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+*.sqlite
+*.sqlite-*
+.env
+.env.*
+!.env.example
+*.log
+.playwright-cli/
+*.tsbuildinfo
